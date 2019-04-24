@@ -1,0 +1,21 @@
+#caixa {
+	background-color: red;
+}
+.primeiro {
+	color: white;
+	font-style: oblique;
+	font-size: 20px;
+}
+.segundo {
+	color: yellow;
+	font-style: italic;
+	font-size: 23px;
+}
+.cor {
+	color: blue;
+	font-style: italic;
+}
+.titulo {
+	color: green;
+	font-size: 60px;
+}
